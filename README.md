@@ -1,6 +1,7 @@
 # image_engine
 Image engine available for Brqx Projects
 Farmacia Zaragoza 2020-2021
+Updated 15-09-2020
 
 Based in Json File or in future rest/graphql entry be able to display images as : 
 
@@ -10,6 +11,14 @@ Based in Json File or in future rest/graphql entry be able to display images as 
 
 + Have a wizard to instant view type change
 + Enable Zoom effect for images
+
+Every object ( image ) will have : 
+
+- Picture ( Resolution based ) 
+- Name
+- Description
+- Link (optional --> Double click)
+- Zoom enabled 
 
 Current architecture : 
 
@@ -28,6 +37,11 @@ Feel freet to add code information :
 
 
 + Codding flow
+
+
+Related project : 
+
+Client - Javascript - React -->  https://github.com/Farmacia-Zaragoza/image-engine 
 
 
 
