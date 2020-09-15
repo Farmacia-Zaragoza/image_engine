@@ -1,4 +1,4 @@
-# image_engine
+# Image Engine - Main Structure (image_engine)
 Image engine available for Brqx Projects
 Farmacia Zaragoza 2020-2021
 Updated 15-09-2020
