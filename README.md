@@ -5,12 +5,22 @@ Updated 15-09-2020
 
 Based in Json File or in future rest/graphql entry be able to display images as : 
 
-- List ( Image - Description ) 
+- One Line List ( Image - Description ) 
+- Detailed List
 - Gallery / Grid
 - Slide ( Partial | Full Screen ) 
 
 + Have a wizard to instant view type change
 + Enable Zoom effect for images
+
+Example information : 
+
+One Line List Information : Image | Name | Description | Link
+
+Image Behaviour : 
+
+- Simple click --> Zoom
+- Double click --> Full Screen Slide
 
 Every object ( image ) will have : 
 
